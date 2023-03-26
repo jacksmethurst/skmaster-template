@@ -12,6 +12,22 @@
 			A base template including the <mark>latest version</mark> of both SvelteKit
 			& MasterCSS.
 		</p>
+
+		<div class="flex mt:32">
+			<a
+				href="https://github.com/jacksmethurst/skmaster-template"
+				target="_blank"
+				class="block p:12|16 b:1|solid|black bg:black:hover color:white:hover"
+				>Get started</a
+			>
+			<a
+				href="https://stackblitz.com/edit/sveltekit-mastercss-template?file=src/routes/+page.svelte"
+				target="_blank"
+				class="block p:12|16 b:1|solid|black bl:none bg:black:hover color:white:hover flex ai:center gap:4"
+			>
+				<span class="material-symbols-outlined"> download </span> Download</a
+			>
+		</div>
 	</div>
 </section>
 
